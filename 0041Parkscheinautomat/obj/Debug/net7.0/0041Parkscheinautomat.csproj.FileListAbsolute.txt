@@ -1,0 +1,15 @@
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\bin\Debug\net7.0\0041Parkscheinautomat.exe
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\bin\Debug\net7.0\0041Parkscheinautomat.deps.json
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\bin\Debug\net7.0\0041Parkscheinautomat.runtimeconfig.json
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\bin\Debug\net7.0\0041Parkscheinautomat.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\bin\Debug\net7.0\0041Parkscheinautomat.pdb
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\0041Parkscheinautomat.csproj.AssemblyReference.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\0041Parkscheinautomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\0041Parkscheinautomat.AssemblyInfoInputs.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\0041Parkscheinautomat.AssemblyInfo.cs
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\0041Parkscheinautomat.csproj.CoreCompileInputs.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\0041Parkscheinautomat.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\refint\0041Parkscheinautomat.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\0041Parkscheinautomat.pdb
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\0041Parkscheinautomat.genruntimeconfig.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0041Parkscheinautomat\obj\Debug\net7.0\ref\0041Parkscheinautomat.dll
